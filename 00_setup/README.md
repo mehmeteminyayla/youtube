@@ -1,13 +1,12 @@
 # 00_setup
 Genel gidişattan ve hazırlıklardan bahsediyoruz.
 
-Genel Kurs Planı:
-S1: Python/EDA/Dashboard
-S2: sklearn ML
-S3: MLOps giriş
-S4: PyTorch DL
-S5: NLP/TS/LLM/Agentic + Workshop
-
+## Genel Kurs Planı:
+- S1: Python/EDA/Dashboard
+- S2: sklearn ML
+- S3: MLOps giriş
+- S4: PyTorch DL
+- 5: NLP/TS/LLM/Agentic + Workshop
 
 ## Bölüm Özeti
 Genel bir giriş ve hazırık bölümü.
