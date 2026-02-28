@@ -1,7 +1,8 @@
 # 00_setup
+Genel gidişattan ve hazırlıklardan bahsediyoruz.
 
 ## Bölüm Özeti
-Bu bölümün ana konusu ve hedefleri burada özetlenir.
+Genel bir giriş ve hazırık bölümü.
 
 ## Açıklamalar
 - `notebooks/`: Ders sırasında kullanılan notebook dosyaları
