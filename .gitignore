@@ -92,3 +92,8 @@ Pipfile.lock
 *.gz
 *.bz2
 *.7z
+
+# Office files
+*.docx
+*.xlsx
+*.pptx
